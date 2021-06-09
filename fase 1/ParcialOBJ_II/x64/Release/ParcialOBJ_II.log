@@ -1,0 +1,96 @@
+﻿  Cliente1.cpp
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(59,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(58,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(100,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(99,13): warning C4101: 'fila': variable local sin referencia
+  Compras.cpp
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Compras.h(176,13): warning C4101: 'fila1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Compras.h(178,14): warning C4101: 'resultado1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Compras.h(276,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Compras.h(275,13): warning C4101: 'fila': variable local sin referencia
+  Compras_detalle.cpp
+  ConexionBD.cpp
+  Empleado1.cpp
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(61,15): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(61,18): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(69,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(68,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(111,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(110,13): warning C4101: 'fila': variable local sin referencia
+  Imp.cpp
+  main.cpp
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(61,15): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(61,18): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(69,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(68,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(111,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Empleado1.h(110,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(59,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(58,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(100,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(99,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\puesto.h(31,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\puesto.h(30,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\puesto.h(73,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\puesto.h(72,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Marca.h(30,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Marca.h(29,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Marca.h(72,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Marca.h(71,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Proveedor1.h(40,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Proveedor1.h(39,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Proveedor1.h(82,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Proveedor1.h(81,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Productos.h(61,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Productos.h(60,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Productos.h(104,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Productos.h(103,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(145,13): warning C4101: 'fila1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(146,14): warning C4101: 'resultado1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(450,13): warning C4101: 'fila1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(452,14): warning C4101: 'resultado1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(549,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(548,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Compras.h(176,13): warning C4101: 'fila1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Compras.h(178,14): warning C4101: 'resultado1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Compras.h(276,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Compras.h(275,13): warning C4101: 'fila': variable local sin referencia
+  Marca.cpp
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Marca.h(30,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Marca.h(29,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Marca.h(72,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Marca.h(71,13): warning C4101: 'fila': variable local sin referencia
+  Persona.cpp
+  Productos.cpp
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Productos.h(61,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Productos.h(60,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Productos.h(104,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Productos.h(103,13): warning C4101: 'fila': variable local sin referencia
+  Proveedor1.cpp
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Proveedor1.h(40,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Proveedor1.h(39,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Proveedor1.h(82,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Proveedor1.h(81,13): warning C4101: 'fila': variable local sin referencia
+  puesto.cpp
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\puesto.h(31,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\puesto.h(30,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\puesto.h(73,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\puesto.h(72,13): warning C4101: 'fila': variable local sin referencia
+  Ventas.cpp
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(59,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(58,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(100,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Cliente1.h(99,13): warning C4101: 'fila': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(145,13): warning C4101: 'fila1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(146,14): warning C4101: 'resultado1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(450,13): warning C4101: 'fila1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(452,14): warning C4101: 'resultado1': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(549,14): warning C4101: 'resultado': variable local sin referencia
+D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\ParcialOBJ_II\Ventas.h(548,13): warning C4101: 'fila': variable local sin referencia
+  Ventas_detalle.cpp
+  Generando código
+  390 of 401 functions (97.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  ParcialOBJ_II.vcxproj -> D:\Desktop\UMG\tareas 3er semestre\Progra I\OBJ\x64\Release\ParcialOBJ_II.exe

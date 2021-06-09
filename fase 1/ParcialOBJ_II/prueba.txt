@@ -1,0 +1,17 @@
+----------------------------------TIENDA SS------------------------------------
+------------------------------4ta calle antigua---------------------------------
+------------------------------Telefono:7832-0000---------------------------------
+--------------------------------NIT: 293829382-----------------------------------
+No.Compra:140                              Fecha Ingreso:2021-06-03 12:25:28
+No.Factura:10211                           Serie:A
+Nombre:analu
+Apellido:sdfh                               Empleado:Marta Andrea
+Nit:102030                                         Fecha:2021-06-03
+CNT        Producto            Marca                P/U            SUBT
+3          gaseosa               pepsi                1.00           3.00
+4          gaseosa               coca cola                5.00           20.00
+10          galletas               oreo                2.50           25.00
+                                 Total:48
+                               Efectivo:100
+                               Cambio: 52
+                            GRACIAS POR SU COMPRA
